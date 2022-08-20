@@ -112,4 +112,6 @@ public static void tekrarsizTekElemanlarinkupunuyazdir(List<Integer>liste){
     }
 
     //serap: bu dosyani  devami gelecek
+    
+    //lambda bitince hepsi yuklenecek
 }
