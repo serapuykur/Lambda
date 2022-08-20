@@ -111,4 +111,5 @@ public static void tekrarsizTekElemanlarinkupunuyazdir(List<Integer>liste){
         System.out.println("min = "+min);
     }
 
+    //serap: bu dosyani  devami gelecek
 }
